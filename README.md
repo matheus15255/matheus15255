@@ -1,7 +1,7 @@
 # Matheus Alonso :man_technologist:
 Meu nome é Matheus tenho 21 Anos, Sou de São Vicente-SP 🌃.
 Estou estudando, Análise e Desenvolvimento de Sistemas pela Unicesumar e faço o BootCamp Full Stack da Labenu 🤓
-Tenho Conhecimentos JUNIOR em HTML, CSS, PYTHON, JAVA, JAVASCRIPT E C.💻
+Tenho Conhecimentos JUNIOR em HTML, CSS, JAVASCRIPT, TYPESCRIPT, NEXT, NODE.JS💻
 
 "Nada neste mundo supera a boa e velha persistência. O talento não supera.
 Nada mais comum do que os fracassos talentosos. 
