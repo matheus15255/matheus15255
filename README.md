@@ -1,6 +1,6 @@
 # Matheus Alonso :man_technologist:
 Meu nome é Matheus tenho 23 Anos, Sou de Praia Grande-SP 🌃.
-Estou estudando, Análise e Desenvolvimento de Sistemas pela Unicesumar e faço o BootCamp Full Stack da Labenu 🤓
+Sou Formado em Análise e Desenvolvimento de Sistemas pela Unicesumar🤓
 Tenho Conhecimentos em HTML, CSS, JAVASCRIPT, TYPESCRIPT, NEXT, NODE.JS💻
 
 "Nada neste mundo supera a boa e velha persistência. O talento não supera.
